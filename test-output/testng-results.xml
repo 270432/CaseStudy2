@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="216120" started-at="2022-07-18T10:43:47 IST" finished-at="2022-07-18T10:47:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="216120" started-at="2022-07-18T10:43:47 IST" finished-at="2022-07-18T10:47:23 IST">
+      <class name="Com.TestCase_Class.Tace_Case">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="setup" is-config="true" duration-ms="47264" started-at="2022-07-18T10:43:47 IST" finished-at="2022-07-18T10:44:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="MoviesSearch()[pri:1, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="MoviesSearch" duration-ms="4273" started-at="2022-07-18T10:44:35 IST" finished-at="2022-07-18T10:44:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoviesSearch -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="TearDown" is-config="true" duration-ms="496" started-at="2022-07-18T10:44:39 IST" finished-at="2022-07-18T10:44:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="setup" is-config="true" duration-ms="23661" started-at="2022-07-18T10:44:39 IST" finished-at="2022-07-18T10:45:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ResultText()[pri:2, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="ResultText" duration-ms="3493" started-at="2022-07-18T10:45:03 IST" finished-at="2022-07-18T10:45:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResultText -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="TearDown" is-config="true" duration-ms="121" started-at="2022-07-18T10:45:07 IST" finished-at="2022-07-18T10:45:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="setup" is-config="true" duration-ms="23216" started-at="2022-07-18T10:45:07 IST" finished-at="2022-07-18T10:45:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clicklink()[pri:3, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="clicklink" duration-ms="10835" started-at="2022-07-18T10:45:30 IST" finished-at="2022-07-18T10:45:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="TearDown" is-config="true" duration-ms="170" started-at="2022-07-18T10:45:41 IST" finished-at="2022-07-18T10:45:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="setup" is-config="true" duration-ms="21685" started-at="2022-07-18T10:45:41 IST" finished-at="2022-07-18T10:46:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Textverify()[pri:4, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="Textverify" duration-ms="10782" started-at="2022-07-18T10:46:03 IST" finished-at="2022-07-18T10:46:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Textverify -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="TearDown" is-config="true" duration-ms="174" started-at="2022-07-18T10:46:13 IST" finished-at="2022-07-18T10:46:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="setup" is-config="true" duration-ms="22230" started-at="2022-07-18T10:46:14 IST" finished-at="2022-07-18T10:46:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mpaaRating()[pri:5, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="mpaaRating" duration-ms="10325" started-at="2022-07-18T10:46:36 IST" finished-at="2022-07-18T10:46:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mpaaRating -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="TearDown" is-config="true" duration-ms="168" started-at="2022-07-18T10:46:46 IST" finished-at="2022-07-18T10:46:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="setup" is-config="true" duration-ms="22364" started-at="2022-07-18T10:46:46 IST" finished-at="2022-07-18T10:47:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="DirName()[pri:6, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="DirName" duration-ms="14603" started-at="2022-07-18T10:47:09 IST" finished-at="2022-07-18T10:47:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DirName -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Com.TestCase_Class.Tace_Case@42607a4f]" name="TearDown" is-config="true" duration-ms="123" started-at="2022-07-18T10:47:23 IST" finished-at="2022-07-18T10:47:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Com.TestCase_Class.Tace_Case -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
